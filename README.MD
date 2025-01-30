@@ -59,6 +59,8 @@ Emotion: Happy
 
 The processed image will be saved in the `/outputs/` directory and displayed in the notebook.
 
+![Alt Text](Gender-Emotion-and-Age-Detection\screenshot\age_gender_emotion_detection.png)
+
 
 ---
 **Note:** This model's accuracy depends on lighting conditions, image quality, and model limitations.
