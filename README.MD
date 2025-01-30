@@ -46,8 +46,7 @@ You will be prompted to upload an image for processing.
 The script will detect the face, predict age, gender, and emotion, and display the image with annotations.
 
 ## Sample Images
-Use the following links to download sample images for testing:
-- [Sample Image 1](Gender-Emotion-and-Age-Detection/images/girl1.jpg)
+![Alt Text](Gender-Emotion-and-Age-Detection/images/girl1.jpg)
 
 ## Output Example
 After running the script, you will see results like:
@@ -56,7 +55,8 @@ Gender: Female
 Age: 25-32 years
 Emotion: Happy
 ```
-- [Sample Image 1](Gender-Emotion-and-Age-Detection\outputs\output (5).jpg)
+![Alt Text](Gender-Emotion-and-Age-Detection\outputs\output.jpg)
+
 The processed image will be saved in the `/outputs/` directory and displayed in the notebook.
 
 
