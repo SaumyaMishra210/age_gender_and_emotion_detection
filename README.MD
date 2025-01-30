@@ -58,7 +58,7 @@ Emotion: Happy
 
 The processed image will be saved in the `/outputs/` directory and displayed in the notebook.
 
-![Alt Text](https://github.com/SaumyaMishra210/age_gender_and_emotion_detection/blob/main/screenshot\age_gender_emotion_detection.png)
+![Alt Text](https://github.com/SaumyaMishra210/age_gender_and_emotion_detection/blob/main/screenshot/age_gender_emotion_detection.png)
 
 
 ---
